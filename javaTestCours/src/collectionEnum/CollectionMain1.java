@@ -22,7 +22,10 @@ public class CollectionMain1 {
 		//addition des valeurs ponctuelles dans ARRAYLIST
 		l1.add("orange-1");
 		l1.add("pasteque-2");
-		
+		//addition des objets non String
+		l1.add(40.55);
+		l1.add(47);
+		l1.add(((byte) 127));
 		//creation d'un ArrayList à partir d'un Array
 		l2=Arrays.asList(array1);
 		 
