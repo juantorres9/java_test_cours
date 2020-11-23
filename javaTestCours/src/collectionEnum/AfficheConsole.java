@@ -1,7 +1,7 @@
 package collectionEnum;
 
 public class AfficheConsole {
-
+   String message;
 	public AfficheConsole() {
 		this.af1("classe affichage created");
 	}
