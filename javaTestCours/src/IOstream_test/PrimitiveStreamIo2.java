@@ -8,7 +8,7 @@ import java.nio.file.Paths;
 
 import collectionEnum.AfficheConsole;
 
-public class PrimitiveStreamIo1 {
+public class PrimitiveStreamIo2 {
 
 	public static void main(String[] args) {
 		
